@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.log
+.vscode/
